@@ -1,1 +1,2 @@
+nome, ra, grupo
 andrey, 2100750, 23
