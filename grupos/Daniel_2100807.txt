@@ -1,0 +1,2 @@
+nome,ra,grupo
+Daniel, 2100807, 23
