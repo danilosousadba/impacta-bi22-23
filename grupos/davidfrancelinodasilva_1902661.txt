@@ -1,0 +1,2 @@
+nome,ra,turma
+david francelino da silva,1902661,bi22
