@@ -1,0 +1,2 @@
+nome,ra,turma
+David Francelino da Silva,1902661,22
